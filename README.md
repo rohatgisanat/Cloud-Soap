@@ -1,7 +1,7 @@
 <html>
 <head>
 <h1>
-Soap Based Database Manipulation Project
+Soap Based Database Manipulation
 <h1>
 </head>
 <body>
