@@ -24,11 +24,12 @@ The program allows the client side client to:<ul>
 <li><h4>Count the total no. of entries in the database</h4></li>
 </ul>
 </div>
-<div>
+<h3>Deployment:</h3>
+To deploy the program on server startup. Download the  .war file in the dist folder and place it in your tomcat/webapps folder.
+
 <h3>Database:</h3>
 The program stores the name and the ages of people in a database.The database has four tables within it. The program sorts the names according to its first letter and stores it in the specific table.
 The program uses JDBC to manipulate database.
-</div>
 <div>
 <h3>Points to remember:</h3>
 <ul>
