@@ -33,6 +33,7 @@ The program uses JDBC to manipulate database.
 <div>
 <h3>Points to remember:</h3>
 <ul>
+<li>Uses tomcat server for deployment.</li>
 <li>The uploaded code has already been uploaded at Openshift Cloud and therefore uses few of the system environment variables provided by them. Replace them with your own variables when working with your local copy.</li>
 <li>When working on your own copy,database would have to be created externally.A copy of the database is uploaded.</li>
 <li><h6>This is a netbeans project download the repoitoryand import it into netbeans to work on it.  </h6></li>
