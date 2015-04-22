@@ -37,7 +37,7 @@ The program uses JDBC to manipulate database.
 <li>The uploaded code has already been uploaded at Openshift Cloud and therefore uses few of the system environment variables provided by them. Replace them with your own variables when working with your local copy.</li>
 <li>When working on your own copy,database would have to be created externally.A copy of the database is uploaded.</li>
 <li><h6>This is a netbeans project download the repository and import it into netbeans to work on it.  </h6></li>
-<li> The code  for ADMIN/Client has also been uploaded. These are not required to run the server side services. as the WSDL will do that providing language independance. These however are seperate netbeans Java projects and should be treated as such.  </li>
+<li> The code  for ADMIN/Client has also been uploaded under the folder Client_Admin codes. These are not required to run the server side services. as the WSDL will do that providing language independance. Both of them however are seperate netbeans Java projects and should be treated as such.  </li>
 </ul>
 </div> 
 </body>
