@@ -5,7 +5,7 @@ Soap Based Database Manipulation
 <h1>
 </head>
 <body>
-<h2>Welome!</h2>
+<h2>Welcome!</h2>
 <div>This is my first attempt at SOA based java program. This program manipulates databases depending upon the client/admin request. To obtain a wsdl go to <a href="http://datamanipulation-rohatgisanat.rhcloud.com/MIS/AdminSide">Admin and Client WSDL </a>. Go ahead and create your own client app to manipulate data.SOA ensures interorperability that mean sthat client app can be language independant.yay! 
 </div>
 <div>
